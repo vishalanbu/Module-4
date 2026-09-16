@@ -24,17 +24,7 @@ with open("story.txt", "r") as file:
 
 print("Number of lines not starting with 'T':", count)
 ```
-## Output
 
-Assume `story.txt` contains:
-
-```text
-The sun was shining.
-It was a beautiful morning.
-The birds were singing.
-A boy was walking.
-They enjoyed the weather.
-```
 
 
 
